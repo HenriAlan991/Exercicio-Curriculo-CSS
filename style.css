@@ -1,0 +1,57 @@
+body{
+    background-color: #dfdbdb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    
+}
+#conteudo{
+    margin-left: 40px;
+    border-left: 10px solid rgb(80, 79, 79);
+    padding-left: 50px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(138, 138, 238);
+    color: rgb(0, 0, 0);
+    border-bottom: 5px solid white;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding: 10px 30px;
+}
+#subH1{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    padding: 10px;
+    border-top: 5px solid rgb(151, 149, 149);
+    
+
+    background-color: rgb(138, 138, 238) ;
+
+}
+h2{
+    width: fit-content;
+    background-color: rgb(182, 182, 224);
+    padding: 15px;
+    border-bottom: 5px solid blue;
+}
+h3{
+    width: fit-content;
+    background-color: rgb(206, 206, 245);
+    padding: 15px;
+    border-bottom: 5px solid rgb(95, 95, 243);
+
+}
+h4{
+    width: fit-content;
+    background-color: rgb(208, 208, 231);
+    padding: 15px;
+    border-bottom: 5px solid rgb(154, 154, 247);
+
+}
+p{
+    font-size: 15px;
+}
