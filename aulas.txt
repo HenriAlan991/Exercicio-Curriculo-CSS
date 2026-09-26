@@ -1,0 +1,10 @@
+AULAS REFERENTE AO EXERCÍCIO
+
+SEÇÃO 2: INTRODUÇÂO AO CSS
+
+31. DESAFIO CURRÌCULO CSS - https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/learn/lecture/36733794#notes
+32. IMAGEM DE REFERÊNCIA PARA O DESAFIO - https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/learn/lecture/37472566#notes
+33. RESOLUÇÃO DO DESAFIO HTML - https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/learn/lecture/36733812#notes
+34. RESOLUÇÃO DO DESAFIO CSS - https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/learn/lecture/36734024#notes
+35. EXERCÍCIO MENU HORIZONTAL - https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/learn/lecture/36734114#notes
+36. RESOLUÇÃO DO EXERCÍCIO - https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/learn/lecture/36734118#notes
